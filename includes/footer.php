@@ -3,12 +3,12 @@
         <div class="px-5">
             <div class="row justify-content-between gy-5">
                 <div class="col-md-6 col-xl-3">
-                    <div class="footer-about" data-aos="fade-up" data-aos-duration="800">
-                        <div class="footer-about_logo" data-aos="fade-down" data-aos-duration="800">
+                    <div class="footer-about" data-aos="fade-up" data-aos-duration="500">
+                        <div class="footer-about_logo" data-aos="fade-down" data-aos-duration="500">
                             <a href="home-travel.html"><img src="img/kunbis_logo_outline.webp" alt="Tourm" /></a>
                         </div>
-                        <p class="footer-about_text" data-aos="fade-up" data-aos-duration="800">Rapidiously myocardinate cross-platform intellectual capital model. Appropriately create interactive infrastructures</p>
-                        <div class="footer-about_social gap-2 gap-lg-1" data-aos="fade-up" data-aos-duration="800">
+                        <p class="footer-about_text">At Kunbis Unique Ventures, we are committed to providing exceptional services. Our goal is to deliver personalized experiences that meet your unique needs and aspirations.</p>
+                        <div class="footer-about_social gap-2 gap-lg-1" data-aos="fade-right" >
                             <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a> 
                             <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
                             <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a> 
@@ -19,7 +19,7 @@
                 </div>
 
                 <div class="col-md-6 col-xl-auto">
-                    <div class="footer-nav" data-aos="fade-up" data-aos-duration="800">
+                    <div class="footer-nav" data-aos="fade-up" data-aos-duration="500">
                         <h3 class="footer_title">Quick Links</h3>
                         <ul class="footer-nav_menu">
                             <li><a href="index.html">Home</a></li>
@@ -32,10 +32,10 @@
                 </div>
                 
                 <div class="col-md-6 col-xl-auto">
-                    <div class="footer-contact" data-aos="fade-up" data-aos-duration="800">
+                    <div class="footer-contact" data-aos="fade-up" data-aos-duration="500">
                         <h3 class="footer_title">Get In Touch</h3>
                         <div class="th-widget-contact">
-                            <div class="info-box_text d-flex align-items-center gap-2" data-aos="fade-up" data-aos-duration="800">
+                            <div class="info-box_text d-flex align-items-center gap-2" data-aos="fade-up" data-aos-duration="500">
                                 <div class="icon">
                                     <i class="fa fa-phone"></i>
                                 </div>
@@ -45,7 +45,7 @@
                                 </div>
                             </div>
 
-                            <div class="info-box_text d-flex align-items-center gap-2" data-aos="fade-up" data-aos-duration="800">
+                            <div class="info-box_text d-flex align-items-center gap-2" data-aos="fade-up" data-aos-duration="500">
                                 <div class="icon">
                                     <i class="fa fa-envelope"></i>
                                 </div>
@@ -55,7 +55,7 @@
                                 </div>
                             </div>
 
-                            <div class="info-box_text d-flex align-items-center gap-2" data-aos="fade-up" data-aos-duration="800">
+                            <div class="info-box_text d-flex align-items-center gap-2" data-aos="fade-up" data-aos-duration="500">
                                 <div class="icon">
                                     <i class="fa fa-location-dot"></i>
                                 </div>
@@ -68,31 +68,31 @@
                 </div>
 
                 <div class="col-md-6 col-xl-auto">
-                    <div class="widget footer-widget" data-aos="fade-up" data-aos-duration="800">
+                    <div class="widget footer-widget" data-aos="fade-up" data-aos-duration="500">
                         <h3 class="footer_title">Instagram Post</h3>
                         <div class="sidebar-gallery">
-                            <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="800">
-                                <img src="img/widget/gallery_1_1.jpg" alt="Gallery Image" />
+                            <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="500">
+                                <img src="img/flyers/kunbis (8).png" alt="Gallery Image" />
                                 <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a>
                             </div>
-                            <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="800">
-                                <img src="img/widget/gallery_1_2.jpg" alt="Gallery Image" />
+                            <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="500">
+                                <img src="img/flyers/kunbis (4).png" alt="Gallery Image" />
                                 <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a>
                             </div>
-                            <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="800">
-                                <img src="img/widget/gallery_1_3.jpg" alt="Gallery Image" />
+                            <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="500">
+                                <img src="img/flyers/kunbis (3).png" alt="Gallery Image" />
                                 <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a>
                             </div>
-                            <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="800">
-                                <img src="img/widget/gallery_1_4.jpg" alt="Gallery Image" />
+                            <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="500">
+                                <img src="img/flyers/kunbis (2).png" alt="Gallery Image" />
                                 <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a>
                             </div>
-                            <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="800">
-                                <img src="img/widget/gallery_1_5.jpg" alt="Gallery Image" />
+                            <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="500">
+                                <img src="img/flyers/kunbis (1).png" alt="Gallery Image" />
                                 <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a>
                             </div>
-                            <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="800">
-                                <img src="img/widget/gallery_1_6.jpg" alt="Gallery Image" />
+                            <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="500">
+                                <img src="img/flyers/kunbis (5).png" alt="Gallery Image" />
                                 <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>

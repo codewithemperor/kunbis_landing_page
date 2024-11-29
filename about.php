@@ -1,6 +1,9 @@
 <html>
     <head>
-        <?php include './includes/header.php'?>
+        <?php
+            $pageTitle = "Kunbis - About Us";
+            include './includes/header.php';
+        ?>
         <style>
             .newsletter {
                 background-color: rgba(var(--pColor-rgb), .20);

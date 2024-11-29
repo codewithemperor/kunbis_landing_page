@@ -8,7 +8,7 @@
     content="Kunbis offers premium services in travel and tours, automobile rentals, and estate management. We ensure top-notch experiences for clients seeking vacation planning, real estate investment, and luxury car rentals." />
         
 <!-- Title  -->
-<title>Kunbis - Travel, Automobile, and Estate Management Solutions</title>
+<title><?php echo isset($pageTitle) ? $pageTitle : "Kunbis - Travel, Automobile, and Estate Management Solutions"; ?></title>
 
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="img/favicons/apple-touch-icon.png" />
