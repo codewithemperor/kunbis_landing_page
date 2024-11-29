@@ -15,7 +15,7 @@
             </li>
 
             <li class="nav-item pe-lg-2">
-                <a class="nav-link" href="">Estate Management</a>
+                <a class="nav-link" href="https://realestate.kunbisunique.com/">Real Estate</a>
             </li>
 
             <li class="nav-item pe-lg-2">
@@ -30,8 +30,8 @@
                     <li><a class="dropdown-item p-3" href="">Hotel Reservation</a></li>
                     <li><a class="dropdown-item p-3" href="#">E-Visa/ETA</a></li>
                     <li><a class="dropdown-item p-3" href="#">Study in Canada</a></li>
-                    <li><a class="dropdown-item p-3" href="#">Buy Land</a></li>
-                    <li><a class="dropdown-item p-3" href="#">Buy Properties</a></li>
+                    <li><a class="dropdown-item p-3" href="https://realestate.kunbisunique.com/lands.php">Buy Land</a></li>
+                    <li><a class="dropdown-item p-3" href="https://realestate.kunbisunique.com/properties.php">Buy Properties</a></li>
                     <li><a class="dropdown-item p-3" href="#">Vacation/Tour</a></li>
                     <li><a class="dropdown-item p-3" href="#">Buy Car</a></li>
                 </ul>

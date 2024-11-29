@@ -18,7 +18,7 @@
         </a>
 
         <!-- Card 2 -->
-        <a href="#" class="col-md-4 division_card" data-aos="zoom-in" data-aos-delay="200">
+        <a href="https://realestate.kunbisunique.com/" class="col-md-4 division_card" data-aos="zoom-in" data-aos-delay="200">
             <div class="division-item" style="background: url(img/banner/house.jpg); background-size: cover;">
                 <div class="division-item__text">
                     <h3 data-aos="fade-right" data-aos-delay="400">Estate Management</h3>
