@@ -11,7 +11,7 @@
         <ul class="navbar-nav flex-grow-1 justify-content-lg-center m-3 my-lg-0 ms-lg-0">
 
             <li class="nav-item pe-lg-2">
-                <a class="nav-link" href="">Travel & Tours</a>
+                <a class="nav-link" href="https://travel.kunbisunique.com/">Travel & Tours</a>
             </li>
 
             <li class="nav-item pe-lg-2">
@@ -26,10 +26,10 @@
             <li class="nav-item dropdown pe-lg-2">
                 <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Our Services</a>
                 <ul class="dropdown-menu p-lg-3">
-                    <li><a class="dropdown-item p-3" href="">Flight Reservation</a></li>
-                    <li><a class="dropdown-item p-3" href="">Hotel Reservation</a></li>
+                    <li><a class="dropdown-item p-3" href="https://travel.kunbisunique.com/flight-itinerary.php">Flight Itinerary</a></li>
+                    <li><a class="dropdown-item p-3" href="https://travel.kunbisunique.com/hotel-reservation.php">Hotel Reservation</a></li>
                     <li><a class="dropdown-item p-3" href="#">E-Visa/ETA</a></li>
-                    <li><a class="dropdown-item p-3" href="#">Study in Canada</a></li>
+                    <li><a class="dropdown-item p-3" href="https://travel.kunbisunique.com/study-in-canada.php">Study in Canada</a></li>
                     <li><a class="dropdown-item p-3" href="https://realestate.kunbisunique.com/lands.php">Buy Land</a></li>
                     <li><a class="dropdown-item p-3" href="https://realestate.kunbisunique.com/properties.php">Buy Properties</a></li>
                     <li><a class="dropdown-item p-3" href="#">Vacation/Tour</a></li>
