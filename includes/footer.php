@@ -24,7 +24,7 @@
                         <ul class="footer-nav_menu">
                             <li><a href="index.php">Home</a></li>
                             <li><a href="about.php">About us</a></li>
-                            <li><a href="#">Travels & Tour</a></li>
+                            <li><a href="https://travel.kunbisunique.com/">Travels & Tour</a></li>
                             <li><a href="https://realestate.kunbisunique.com/">Real Estate</a></li>
                             <li><a href="#">Sell your Car</a></li>
                         </ul>
