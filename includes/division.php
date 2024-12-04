@@ -9,7 +9,7 @@
     <div class="row px-4 px-md-5">
         <!-- Card 1 -->
         <a href="https://travel.kunbisunique.com/" class="col-md-4 division_card" data-aos="zoom-in" data-aos-delay="0">
-            <div class="division-item" style="background: url(img/banner/visa-assistance.jpg) center center; background-size: cover;">
+            <div class="division-item" style="background: url(images/banner/visa-assistance.jpg) center center; background-size: cover;">
                 <div class="division-item__text">
                     <h3 data-aos="fade-right" data-aos-delay="200">Travel & Tours</h3>
                     <p data-aos="fade-left" data-aos-delay="300">Experience affordable travel packages, luxury vacations, and seamless bookings.</p>
@@ -19,7 +19,7 @@
 
         <!-- Card 2 -->
         <a href="https://realestate.kunbisunique.com/" class="col-md-4 division_card" data-aos="zoom-in" data-aos-delay="200">
-            <div class="division-item" style="background: url(img/banner/house.jpg); background-size: cover;">
+            <div class="division-item" style="background: url(images/banner/house.jpg); background-size: cover;">
                 <div class="division-item__text">
                     <h3 data-aos="fade-right" data-aos-delay="400">Estate Management</h3>
                     <p data-aos="fade-left" data-aos-delay="500">Find prime properties, professional management, and housing solutions tailored for you.</p>
@@ -29,7 +29,7 @@
 
         <!-- Card 3 -->
         <a href="#" class="col-md-4 division_card" data-aos="zoom-in" data-aos-delay="400">
-            <div class="division-item" style="background: url(img/banner/car-bg.jpg); background-size: cover;">
+            <div class="division-item" style="background: url(images/banner/car-bg.jpg); background-size: cover;">
                 <div class="division-item__text" >
                     <h3 data-aos="fade-right" data-aos-delay="600">Automobile</h3>
                     <p data-aos="fade-left" data-aos-delay="700">Get quality car sales, rentals, and trusted auto servicing all in one place.</p>

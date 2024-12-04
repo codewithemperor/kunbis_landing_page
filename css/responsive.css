@@ -27,6 +27,10 @@
         display: none;
     } 
 
+    .category-area .swiper .swiper-slide {
+        width: 250px !important;
+        height: 100%;
+      }
 
 
 

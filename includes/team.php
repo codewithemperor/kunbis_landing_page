@@ -10,7 +10,7 @@
                 <div class="team_single" data-aos="zoom-in">
                     <div class="team_img-box">
                         <div class="team_img">
-                            <img src="img/team/team-1-1.jpg" alt="" data-aos="fade-up">
+                            <img src="images/team/team-1-1.jpg" alt="" data-aos="fade-up">
                         </div>
                     </div>
                     <div class="team_content p-2 text-center">
@@ -36,7 +36,7 @@
                 <div class="team_single" data-aos="zoom-in">
                     <div class="team_img-box">
                         <div class="team_img">
-                            <img src="img/team/team-1-1.jpg" alt="" data-aos="fade-up">
+                            <img src="images/team/team-1-1.jpg" alt="" data-aos="fade-up">
                         </div>
                     </div>
                     <div class="team_content p-2 text-center">
@@ -62,7 +62,7 @@
                 <div class="team_single" data-aos="zoom-in">
                     <div class="team_img-box">
                         <div class="team_img">
-                            <img src="img/team/team-1-1.jpg" alt="" data-aos="fade-up">
+                            <img src="images/team/team-1-1.jpg" alt="" data-aos="fade-up">
                         </div>
                     </div>
                     <div class="team_content p-2 text-center">
@@ -88,7 +88,7 @@
                 <div class="team_single" data-aos="zoom-in">
                     <div class="team_img-box">
                         <div class="team_img">
-                            <img src="img/team/team-1-1.jpg" alt="" data-aos="fade-up">
+                            <img src="images/team/team-1-1.jpg" alt="" data-aos="fade-up">
                         </div>
                     </div>
                     <div class="team_content p-2 text-center">

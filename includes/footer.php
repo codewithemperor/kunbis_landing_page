@@ -5,7 +5,7 @@
                 <div class="col-md-6 col-xl-3">
                     <div class="footer-about" data-aos="fade-up" data-aos-duration="500">
                         <div class="footer-about_logo" data-aos="fade-down" data-aos-duration="500">
-                            <a href="home-travel.html"><img src="img/kunbis_logo_outline.webp" alt="Tourm" /></a>
+                            <a href="home-travel.html"><img src="images/kunbis_logo_outline.webp" alt="Tourm" /></a>
                         </div>
                         <p class="footer-about_text">At Kunbis Unique Ventures, we are committed to providing exceptional services. Our goal is to deliver personalized experiences that meet your unique needs and aspirations.</p>
                         <div class="footer-about_social gap-2 gap-lg-1"  >
@@ -72,27 +72,27 @@
                         <h3 class="footer_title">Instagram Post</h3>
                         <div class="sidebar-gallery">
                             <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="500">
-                                <img src="img/flyers/kunbis (8).png" alt="Gallery Image" />
+                                <img src="images/flyers/kunbis (8).png" alt="Gallery Image" />
                                 <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a>
                             </div>
                             <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="500">
-                                <img src="img/flyers/kunbis (4).png" alt="Gallery Image" />
+                                <img src="images/flyers/kunbis (4).png" alt="Gallery Image" />
                                 <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a>
                             </div>
                             <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="500">
-                                <img src="img/flyers/kunbis (3).png" alt="Gallery Image" />
+                                <img src="images/flyers/kunbis (3).png" alt="Gallery Image" />
                                 <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a>
                             </div>
                             <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="500">
-                                <img src="img/flyers/kunbis (2).png" alt="Gallery Image" />
+                                <img src="images/flyers/kunbis (2).png" alt="Gallery Image" />
                                 <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a>
                             </div>
                             <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="500">
-                                <img src="img/flyers/kunbis (1).png" alt="Gallery Image" />
+                                <img src="images/flyers/kunbis (1).png" alt="Gallery Image" />
                                 <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a>
                             </div>
                             <div class="gallery-thumb" data-aos="zoom-in" data-aos-duration="500">
-                                <img src="img/flyers/kunbis (5).png" alt="Gallery Image" />
+                                <img src="images/flyers/kunbis (5).png" alt="Gallery Image" />
                                 <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
@@ -110,7 +110,7 @@
                 <div class="col-md-6 text-end d-none d-md-block" >
                     <div class="footer-card d-flex justify-content-end align-items-center">
                         <span class="footer-card_title">We Accept</span> 
-                        <img src="img/cards.png" alt="" />
+                        <img src="images/cards.png" alt="" />
                     </div>
                 </div>
             </div>

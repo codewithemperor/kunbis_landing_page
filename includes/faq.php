@@ -1,6 +1,6 @@
 <section class="faq">
     <div class="container" data-aos="fade-up">
-        <div class="row align-items-center">
+        <div class="row align-items-center row-gap-5">
 
             <div class="col-12 text-center">
                 <h2 class="title mb-5" data-aos="fade-up" data-aos-delay="100">Frequently Asked Questions</h2>

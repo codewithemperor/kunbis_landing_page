@@ -4,7 +4,7 @@
             <label for="fullName" class="form-label fw-bold" data-aos="fade-right">Full Name</label>
             <div class="position-relative">
                 <input type="text" class="form-control ps-3" name="fullName" id="fullName" placeholder="Enter your full name" data-aos="fade-up" data-aos-delay="200">
-                <img src="img/svg/user.svg" alt="" class="me-3 position-absolute top-50 end-0 translate-middle-y" data-aos="zoom-in" data-aos-delay="300">
+                <img src="images/svg/user.svg" alt="" class="me-3 position-absolute top-50 end-0 translate-middle-y" data-aos="zoom-in" data-aos-delay="300">
             </div>
         </div>
 
@@ -12,7 +12,7 @@
             <label for="email" class="form-label fw-bold" data-aos="fade-right">Email address</label>
             <div class="position-relative">
                 <input type="email" class="form-control ps-3" name="email" id="email" placeholder="Enter Email Address" data-aos="fade-up" data-aos-delay="200">
-                <img src="img/svg/mail.svg" alt="" class="me-3 position-absolute top-50 end-0 translate-middle-y" data-aos="zoom-in" data-aos-delay="300">
+                <img src="images/svg/mail.svg" alt="" class="me-3 position-absolute top-50 end-0 translate-middle-y" data-aos="zoom-in" data-aos-delay="300">
             </div>
         </div>
 
@@ -20,7 +20,7 @@
             <label for="subject" class="form-label fw-bold" data-aos="fade-right">Your Subject</label>
             <div class="position-relative">
                 <input type="text" class="form-control ps-3" name="subject" id="subject" placeholder="Enter a subject" data-aos="fade-up" data-aos-delay="200">
-                <img src="img/svg/chat.svg" alt="" class="me-3 position-absolute top-50 end-0 translate-middle-y" data-aos="zoom-in" data-aos-delay="300">
+                <img src="images/svg/chat.svg" alt="" class="me-3 position-absolute top-50 end-0 translate-middle-y" data-aos="zoom-in" data-aos-delay="300">
             </div>
         </div>
 
@@ -28,7 +28,7 @@
             <label for="message" class="form-label fw-bold" data-aos="fade-right">Your Message</label>
             <div class="position-relative">
                 <textarea name="message" id="message" rows="5" placeholder="Your Message" class="form-control" data-aos="fade-up" data-aos-delay="200"></textarea>
-                <img src="img/svg/chat.svg" alt="" class="me-3 mt-3 position-absolute top-0 end-0" data-aos="zoom-in" data-aos-delay="300">
+                <img src="images/svg/chat.svg" alt="" class="me-3 mt-3 position-absolute top-0 end-0" data-aos="zoom-in" data-aos-delay="300">
             </div>
         </div>
 
